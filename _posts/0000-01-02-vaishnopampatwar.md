@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+FLOAT LIKE A BUTTERFLY
 Use the left arrow to go back!
